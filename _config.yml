@@ -1,0 +1,16 @@
+title: PennyNest
+description: >-
+  Simple money wins for real life — budgeting that sticks, painless ways to save,
+  and side hustles you can actually start this week. No jargon, no judgement.
+url: "https://pennynest.vercel.app"
+baseurl: ""
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

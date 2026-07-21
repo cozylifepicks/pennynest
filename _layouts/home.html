@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="wrap section">
+  <div class="hero-card" style="max-width:720px;margin:32px auto 8px;text-align:center;">
+    <p class="kicker">Budgeting · Saving · Side hustles</p>
+    <h1>Small money wins that actually add up.</h1>
+    <p class="hero-sub">Budgeting that sticks, painless ways to save, and side hustles you can start this week — in plain language, with zero judgement.</p>
+    <a class="btn" href="#latest">Read the latest</a>
+  </div>
+</section>
+
+<section class="wrap section" id="latest">
+  <h2 class="section-title">Latest articles</h2>
+  <div class="post-grid">
+    {% for post in site.posts %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+      <div class="post-card-body">
+        {% if post.category %}<p class="kicker">{{ post.category }}</p>{% endif %}
+        <h3>{{ post.title }}</h3>
+        <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrap section about-strip">
+  <div>
+    <h2 class="section-title">Hi, welcome to PennyNest</h2>
+    <p>Money advice online is either boring or preachy. We keep it simple and kind: real budgeting tips that survive real life, easy ways to save a little more each week, and honest picks for the tools and courses that are actually worth it. Small steps, real progress.</p>
+    <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">More about us</a>
+  </div>
+</section>

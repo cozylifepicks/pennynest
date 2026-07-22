@@ -94,12 +94,13 @@ shop once, and keep staples in
 [stackable pantry containers](https://www.amazon.com/s?k=airtight+food+storage+containers&tag=tamirugc20-20)
 so nothing gets bought twice or thrown away.
 
-## 11. Learn the system, not just the tips
+## 11. Let a template do the math for you
 
-Tips patch holes; a real system changes everything. This is where a good
-beginner course pays for itself many times over — a step-by-step budgeting
-program walks you from "bad with money" to fully in control in a few evenings.
-<!-- DIGISTORE24: insert your affiliate promolink to a top-rated beginner budgeting / money-management course here once the account is set up -->
+Tips patch holes; a real system changes everything. If typing numbers into a
+notebook isn't your thing, the
+[Ultimate Dynamic Personal Budget spreadsheet](https://www.digital-planning-studio.com/#aff=tamirjr)
+does the math automatically in Google Sheets — you just plug in your numbers
+and it shows you exactly where your money is going.
 
 ## 12. Give yourself guilt-free "fun money"
 
@@ -117,8 +118,11 @@ by the coffee maker makes it a habit instead of a chore.
 ## 14. Add one small income stream
 
 Cutting costs has a floor; earning has none. Even a few hours a week — reselling,
-freelancing, pet-sitting — speeds everything up. A
-[simple ring light](https://www.amazon.com/s?k=ring+light+for+phone&tag=tamirugc20-20)
+freelancing, pet-sitting — speeds everything up. If you want a done-for-you
+starting point, the
+[AI Side Hustle System](http://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)
+walks you through building a simple income stream using tools you already have.
+A [simple ring light](https://www.amazon.com/s?k=ring+light+for+phone&tag=tamirugc20-20)
 is all you need to start listing items or making content.
 
 ## 15. Celebrate the small wins

@@ -35,6 +35,33 @@
     {{ content }}
   </main>
 
+  <script>
+  // Affiliate-link enhancer: open product links in a new tab (reader keeps the
+  // article open and can click more picks), tag them the way Google requires
+  // (rel="sponsored"), and fire a GA4 event so we can finally measure clicks.
+  (function(){
+    var AFF = /(amazon\.[a-z.]+|amzn\.to|digistore24|betterdailyguide)/i;
+    document.querySelectorAll('a[href]').forEach(function(a){
+      try {
+        var u = new URL(a.href, location.href);
+        if (AFF.test(u.hostname) || AFF.test(u.href)) {
+          a.target = '_blank';
+          a.rel = 'sponsored nofollow noopener';
+          a.addEventListener('click', function(){
+            if (typeof gtag === 'function') {
+              gtag('event', 'affiliate_click', {
+                link_domain: u.hostname,
+                link_url: u.href,
+                page_path: location.pathname
+              });
+            }
+          });
+        }
+      } catch(e){}
+    });
+  })();
+  </script>
+
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-brand">

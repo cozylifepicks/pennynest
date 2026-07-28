@@ -107,3 +107,7 @@ You don't need to quit your job or reinvent yourself to bring in extra
 income. Pick one option from this list — ideally the one that needs the least
 setup — and give it one real week before judging whether it's worth
 continuing.
+
+Then make that extra money actually stick:
+[12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/)
+and [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).

@@ -137,3 +137,8 @@ You don't need to be a numbers person. You need a simple system, a couple of
 cheap tools, and a week of paying attention. Start with steps 1 to 3 today, and
 future-you will be genuinely amazed at how fast the calm — and the savings —
 add up.
+
+Once the budget is running, the next milestone is your emergency fund:
+[12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/).
+And if the numbers just don't stretch far enough, look at
+[10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).

@@ -19,11 +19,11 @@ keep up with. Here are 10 realistic side hustles, ranked from "start today" to
 
 <div class="table-wrap" markdown="1">
 
-| Option | Time to start | Why start here |
-|---|---|---|
-| [Ring light + phone tripod](https://www.amazon.com/s?k=ring+light+phone+tripod&tag=tamirugc20-20) | Same day | Everything you need to sell or film, in one box |
-| [Shipping scale](https://www.amazon.com/s?k=digital+shipping+scale&tag=tamirugc20-20) | Same day | Accurate postage means you never overpay |
-| AI Side Hustle System | This week | A done-for-you roadmap instead of guessing |
+| Option | Time to start | Why start here | |
+|---|---|---|---|
+| [Ring light + phone tripod](https://www.amazon.com/s?k=ring+light+phone+tripod&tag=tamirugc20-20) | Same day | Everything you need to sell or film, in one box | **[Check price →](https://www.amazon.com/s?k=ring+light+phone+tripod&tag=tamirugc20-20)** |
+| [Shipping scale](https://www.amazon.com/s?k=digital+shipping+scale&tag=tamirugc20-20) | Same day | Accurate postage means you never overpay | **[Check price →](https://www.amazon.com/s?k=digital+shipping+scale&tag=tamirugc20-20)** |
+| AI Side Hustle System | This week | A done-for-you roadmap instead of guessing | |
 
 </div>
 

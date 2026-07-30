@@ -19,11 +19,11 @@ itself.
 
 <div class="table-wrap" markdown="1">
 
-| Tool | What it does | Why start here |
-|---|---|---|
-| [Undated budget planner](https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20) | One place for every bill & goal | Makes money feel calm instead of scary |
-| [Cash envelope wallet](https://www.amazon.com/s?k=cash+envelope+wallet+budget&tag=tamirugc20-20) | Caps overspending categories | You physically can't overspend what's not there |
-| [Bill & receipt organizer](https://www.amazon.com/s?k=accordion+file+organizer+bills&tag=tamirugc20-20) | Ends late-fee surprises | Late fees are the easiest money you'll ever save |
+| Tool | What it does | Why start here | |
+|---|---|---|---|
+| [Undated budget planner](https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20) | One place for every bill & goal | Makes money feel calm instead of scary | **[Check price →](https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20)** |
+| [Cash envelope wallet](https://www.amazon.com/s?k=cash+envelope+wallet+budget&tag=tamirugc20-20) | Caps overspending categories | You physically can't overspend what's not there | **[Check price →](https://www.amazon.com/s?k=cash+envelope+wallet+budget&tag=tamirugc20-20)** |
+| [Bill & receipt organizer](https://www.amazon.com/s?k=accordion+file+organizer+bills&tag=tamirugc20-20) | Ends late-fee surprises | Late fees are the easiest money you'll ever save | **[Check price →](https://www.amazon.com/s?k=accordion+file+organizer+bills&tag=tamirugc20-20)** |
 
 </div>
 

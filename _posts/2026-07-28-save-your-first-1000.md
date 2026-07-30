@@ -20,11 +20,11 @@ there that don't require living on rice and cancelling your whole life.
 
 <div class="table-wrap" markdown="1">
 
-| Step | Time to set up | Why start here |
-|---|---|---|
-| A budget you'll actually keep | 20 minutes | You can't save money you can't see |
-| [Cash envelope system](https://www.amazon.com/s?k=cash+envelope+system+budget+binder&tag=tamirugc20-20) | Same day | Physical cash makes overspending impossible, not just discouraged |
-| Automate one transfer | 5 minutes | Saving that happens without you is the only kind that lasts |
+| Step | Time to set up | Why start here | |
+|---|---|---|---|
+| A budget you'll actually keep | 20 minutes | You can't save money you can't see | |
+| [Cash envelope system](https://www.amazon.com/s?k=cash+envelope+system+budget+binder&tag=tamirugc20-20) | Same day | Physical cash makes overspending impossible, not just discouraged | **[Check price →](https://www.amazon.com/s?k=cash+envelope+system+budget+binder&tag=tamirugc20-20)** |
+| Automate one transfer | 5 minutes | Saving that happens without you is the only kind that lasts | |
 
 </div>
 

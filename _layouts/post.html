@@ -14,6 +14,19 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="pick post-newsletter">
+    <span class="pick-badge">✉️ Free</span>
+    <p class="pick-name">Enjoying these ideas?</p>
+    <p class="pick-why">Get one new guide like this each week — free, no spam, unsubscribe anytime.</p>
+    <form action="https://app.us4.list-manage.com/subscribe/post?u=0c0152970d6dc82a540d46a35&amp;id=a02e12a40b&amp;f_id=00e825eaf0" method="post" target="_blank" class="footer-newsletter-form" novalidate>
+      <input type="email" name="EMAIL" placeholder="Your email" required class="footer-newsletter-input">
+      <div aria-hidden="true" style="position:absolute;left:-5000px;">
+        <input type="text" name="b_0c0152970d6dc82a540d46a35_a02e12a40b" tabindex="-1" value="">
+      </div>
+      <button type="submit" class="btn footer-newsletter-btn">Subscribe</button>
+    </form>
+  </div>
+
   {% assign other_posts = site.posts | where_exp: "post", "post.url != page.url" %}
   {% assign same_category = other_posts | where: "category", page.category %}
   {% assign different_category = other_posts | where_exp: "post", "post.category != page.category" %}
@@ -24,7 +37,7 @@ layout: default
     <div class="post-grid">
       {% for post in related_posts %}
       <a class="post-card" href="{{ post.url | relative_url }}">
-        {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+        {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async">{% endif %}
         <div class="post-card-body">
           {% if post.category %}<p class="kicker">{{ post.category }}</p>{% endif %}
           <h3>{{ post.title }}</h3>

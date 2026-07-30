@@ -40,7 +40,7 @@
   // article open and can click more picks), tag them the way Google requires
   // (rel="sponsored"), and fire a GA4 event so we can finally measure clicks.
   (function(){
-    var AFF = /(amazon\.[a-z.]+|amzn\.to|digistore24|betterdailyguide)/i;
+    var AFF = /(amazon\.[a-z.]+|amzn\.to|digistore24|betterdailyguide|digital-planning-studio)/i;
     document.querySelectorAll('a[href]').forEach(function(a){
       try {
         var u = new URL(a.href, location.href);

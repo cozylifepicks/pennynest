@@ -432,6 +432,11 @@ a { color: var(--terra-dark); }
 }
 .pick-btn:hover { background: var(--terra-dark); color: #fff; transform: translateY(-1px); }
 
+/* ---- In-article newsletter box ---- */
+.post-newsletter { margin: 36px 0 8px; }
+.post-newsletter .footer-newsletter-form { max-width: 420px; margin-top: 4px; }
+.post-newsletter .footer-newsletter-input { background: #fff; }
+
 /* ---- Conversion: comparison table ---- */
 .prose .table-wrap { overflow-x: auto; margin: 24px 0; }
 .prose table {

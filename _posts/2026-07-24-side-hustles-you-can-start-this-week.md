@@ -23,11 +23,11 @@ keep up with. Here are 10 realistic side hustles, ranked from "start today" to
 |---|---|---|---|
 | [Ring light + phone tripod](https://www.amazon.com/s?k=ring+light+phone+tripod&tag=tamirugc20-20) | Same day | Everything you need to sell or film, in one box | **[Check price →](https://www.amazon.com/s?k=ring+light+phone+tripod&tag=tamirugc20-20)** |
 | [Shipping scale](https://www.amazon.com/s?k=digital+shipping+scale&tag=tamirugc20-20) | Same day | Accurate postage means you never overpay | **[Check price →](https://www.amazon.com/s?k=digital+shipping+scale&tag=tamirugc20-20)** |
-| AI Side Hustle System | This week | A done-for-you roadmap instead of guessing | |
+| [AI Side Hustle System](https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr) | This week | A done-for-you roadmap instead of guessing | **[See it →](https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)** |
 
 </div>
 
-{% include pick.html label="Best First Step" name="AI Side Hustle System" why="A done-for-you guide that walks you through building a real income stream using tools you probably already have — no guessing what to do first." link="http://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr" %}
+{% include pick.html label="Best First Step" name="AI Side Hustle System" why="A done-for-you guide that walks you through building a real income stream using tools you probably already have — no guessing what to do first." link="https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr" cta="See how it works" %}
 
 ## 1. Resell what's already in your closet
 
@@ -47,7 +47,7 @@ fixes scratches and scuffs enough to make a $20 find sell for $80–$150.
 ## 3. Start a done-for-you AI side hustle
 
 If "figure out a side hustle" feels like its own full-time job, the
-[AI Side Hustle System](http://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)
+[AI Side Hustle System](https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)
 gives you an actual roadmap — what to do first, second, and third — using AI
 tools you likely already have access to. It replaces the guessing with a plan.
 
@@ -111,3 +111,5 @@ continuing.
 Then make that extra money actually stick:
 [12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/)
 and [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).
+
+{% include pick.html label="If You Only Try One" name="AI Side Hustle System" why="Most people stall at the deciding-what-to-do stage, not the doing. This hands you the plan on day one, so the only thing left is to follow it." link="https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr" cta="See how it works" %}

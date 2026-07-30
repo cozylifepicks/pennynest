@@ -16,6 +16,8 @@ that stops a flat tyre or a dentist bill from becoming credit card debt, and
 once you have it, everything after it gets easier. Here are 12 ways to get
 there that don't require living on rice and cancelling your whole life.
 
+{% include pick.html label="Best First Step" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="It shows you exactly where the money is going and how much you can realistically save each month — the one thing that turns saving from a hope into a plan." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}
+
 **Short on time? Start with these 3:**
 
 <div class="table-wrap" markdown="1">
@@ -23,12 +25,11 @@ there that don't require living on rice and cancelling your whole life.
 | Step | Time to set up | Why start here | |
 |---|---|---|---|
 | A budget you'll actually keep | 20 minutes | You can't save money you can't see | |
+| [Dynamic budget spreadsheet (Google Sheets)](https://www.digital-planning-studio.com/#aff=tamirjr) | One evening | Does the budget for you — shows where the money goes in one screen | **[See it →](https://www.digital-planning-studio.com/#aff=tamirjr)** |
 | [Cash envelope system](https://www.amazon.com/s?k=cash+envelope+system+budget+binder&tag=tamirugc20-20) | Same day | Physical cash makes overspending impossible, not just discouraged | **[Check price →](https://www.amazon.com/s?k=cash+envelope+system+budget+binder&tag=tamirugc20-20)** |
 | Automate one transfer | 5 minutes | Saving that happens without you is the only kind that lasts | |
 
 </div>
-
-{% include pick.html label="Best First Step" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="It shows you exactly where the money is going and how much you can realistically save each month — the one thing that turns saving from a hope into a plan." link="https://www.digital-planning-studio.com/#aff=tamirjr" %}
 
 ## 1. Find the money before you try to save it
 
@@ -124,3 +125,5 @@ If the real problem is that there isn't enough coming in, read our
 [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
 And if budgeting itself is the part you've always struggled with, start with
 [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).
+
+{% include pick.html label="Where to Start Tonight" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If you only do one thing after reading this, open the spreadsheet and type in last month's numbers — it takes an evening and shows you exactly where your first savings transfer can come from. Everything else on this list gets easier once you can see the money." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}

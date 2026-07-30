@@ -24,10 +24,11 @@ itself.
 | [Undated budget planner](https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20) | One place for every bill & goal | Makes money feel calm instead of scary | **[Check price →](https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20)** |
 | [Cash envelope wallet](https://www.amazon.com/s?k=cash+envelope+wallet+budget&tag=tamirugc20-20) | Caps overspending categories | You physically can't overspend what's not there | **[Check price →](https://www.amazon.com/s?k=cash+envelope+wallet+budget&tag=tamirugc20-20)** |
 | [Bill & receipt organizer](https://www.amazon.com/s?k=accordion+file+organizer+bills&tag=tamirugc20-20) | Ends late-fee surprises | Late fees are the easiest money you'll ever save | **[Check price →](https://www.amazon.com/s?k=accordion+file+organizer+bills&tag=tamirugc20-20)** |
+| [Ultimate Dynamic Budget](https://www.digital-planning-studio.com/#aff=tamirjr) | Doing the math for you | The sheet fills in every number automatically | **[See it →](https://www.digital-planning-studio.com/#aff=tamirjr)** |
 
 </div>
 
-{% include pick.html label="Best First Buy" name="Simple Undated Budget Planner" why="Under $15, no app, no spreadsheet — just write down what's coming in and going out. The single fastest way to stop feeling anxious about money." link="https://www.amazon.com/s?k=budget+planner+book&tag=tamirugc20-20" %}
+{% include pick.html label="Our Top Pick" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="It does all the budget math for you automatically — you type in your numbers and the sheet sorts out the rest. Built for people who hate budgeting and never want to touch a formula." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}
 
 ## 1. Start with the number that actually matters
 
@@ -120,7 +121,7 @@ by the coffee maker makes it a habit instead of a chore.
 Cutting costs has a floor; earning has none. Even a few hours a week — reselling,
 freelancing, pet-sitting — speeds everything up. If you want a done-for-you
 starting point, the
-[AI Side Hustle System](http://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)
+[AI Side Hustle System](https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr)
 walks you through building a simple income stream using tools you already have.
 A [simple ring light](https://www.amazon.com/s?k=ring+light+for+phone&tag=tamirugc20-20)
 is all you need to start listing items or making content.
@@ -137,6 +138,8 @@ You don't need to be a numbers person. You need a simple system, a couple of
 cheap tools, and a week of paying attention. Start with steps 1 to 3 today, and
 future-you will be genuinely amazed at how fast the calm — and the savings —
 add up.
+
+{% include pick.html label="Easiest First Step" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If every budget so far has died because tracking felt like homework, this is the shortcut: open the sheet, drop in your numbers, and it quietly keeps the whole picture up to date for you." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}
 
 Once the budget is running, the next milestone is your emergency fund:
 [12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/).

@@ -141,6 +141,11 @@ add up.
 
 {% include pick.html label="Easiest First Step" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If every budget so far has died because tracking felt like homework, this is the shortcut: open the sheet, drop in your numbers, and it quietly keeps the whole picture up to date for you." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}
 
+Not sure whether a paid planner is worth it at all? We break down the honest
+trade-offs in
+[is a budget spreadsheet worth it?](/is-a-budget-spreadsheet-worth-it/) —
+including when you should skip it and use a notebook instead.
+
 Once the budget is running, the next milestone is your emergency fund:
 [12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/).
 And if the numbers just don't stretch far enough, look at

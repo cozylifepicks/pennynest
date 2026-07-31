@@ -125,5 +125,7 @@ If the real problem is that there isn't enough coming in, read our
 [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
 And if budgeting itself is the part you've always struggled with, start with
 [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).
+Wondering whether the spreadsheet is actually worth paying for? We answer that
+honestly in [is a budget spreadsheet worth it?](/is-a-budget-spreadsheet-worth-it/)
 
 {% include pick.html label="Where to Start Tonight" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If you only do one thing after reading this, open the spreadsheet and type in last month's numbers — it takes an evening and shows you exactly where your first savings transfer can come from. Everything else on this list gets easier once you can see the money." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}

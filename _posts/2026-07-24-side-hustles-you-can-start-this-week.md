@@ -111,5 +111,7 @@ continuing.
 Then make that extra money actually stick:
 [12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/)
 and [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).
+If you want the extra income tracked properly from day one, see whether
+[a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/) for you.
 
 {% include pick.html label="If You Only Try One" name="AI Side Hustle System" why="Most people stall at the deciding-what-to-do stage, not the doing. This hands you the plan on day one, so the only thing left is to follow it." link="https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr" cta="See how it works" %}

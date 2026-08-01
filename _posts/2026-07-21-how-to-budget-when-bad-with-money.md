@@ -150,3 +150,5 @@ Once the budget is running, the next milestone is your emergency fund:
 [12 ways to save your first $1,000 without feeling broke](/save-your-first-1000/).
 And if the numbers just don't stretch far enough, look at
 [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
+The single easiest line to shrink first is groceries:
+[13 ways to cut your grocery bill](/cut-your-grocery-bill/).

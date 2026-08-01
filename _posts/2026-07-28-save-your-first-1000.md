@@ -127,5 +127,7 @@ And if budgeting itself is the part you've always struggled with, start with
 [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/).
 Wondering whether the spreadsheet is actually worth paying for? We answer that
 honestly in [is a budget spreadsheet worth it?](/is-a-budget-spreadsheet-worth-it/)
+The fastest place to find the money for that first transfer is usually the food
+budget — see [13 ways to cut your grocery bill](/cut-your-grocery-bill/).
 
 {% include pick.html label="Where to Start Tonight" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If you only do one thing after reading this, open the spreadsheet and type in last month's numbers — it takes an evening and shows you exactly where your first savings transfer can come from. Everything else on this list gets easier once you can see the money." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}

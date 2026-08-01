@@ -182,3 +182,7 @@ If you are starting from scratch, read
 [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/) first.
 And if the numbers simply don't stretch far enough yet, the fastest fix is more
 income — see [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
+
+Once you can finally see your spending, groceries are usually the fastest line to
+cut: here are [13 ways to cut your grocery bill](/cut-your-grocery-bill/) without
+coupons or meal plans.

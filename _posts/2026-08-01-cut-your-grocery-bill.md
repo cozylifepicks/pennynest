@@ -172,3 +172,7 @@ itself keeps falling apart, start with
 And if the real problem is that there isn't enough coming in, our
 [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/)
 is the place to go next.
+
+Not sure a paid spreadsheet is worth it just to track groceries? Read our
+[honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
+before you spend anything — a free notebook gets most people surprisingly far.

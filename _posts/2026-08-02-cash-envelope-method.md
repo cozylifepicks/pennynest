@@ -183,6 +183,9 @@ Groceries are usually the first envelope to run dry, so
 this one. And once the envelopes are consistently coming back with money left,
 put it somewhere useful with
 [12 ways to save your first $1,000](/save-your-first-1000/).
+If the envelopes keep running empty because there simply isn't enough coming in,
+that's an income problem rather than a budgeting one — see
+[10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
 
 Not sure you need a paid tool at all? Our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)

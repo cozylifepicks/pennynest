@@ -152,3 +152,6 @@ And if the numbers just don't stretch far enough, look at
 [10 realistic side hustles you can start this week](/side-hustles-you-can-start-this-week/).
 The single easiest line to shrink first is groceries:
 [13 ways to cut your grocery bill](/cut-your-grocery-bill/).
+And if the budget keeps working on paper but not in real life, make the limit
+physical — [cash stuffing for beginners](/cash-envelope-method/) walks through
+the envelope method in twelve steps.

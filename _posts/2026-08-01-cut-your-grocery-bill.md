@@ -176,3 +176,7 @@ is the place to go next.
 Not sure a paid spreadsheet is worth it just to track groceries? Read our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
 before you spend anything — a free notebook gets most people surprisingly far.
+
+If the grocery limit is the one you keep blowing through, take it out in cash:
+[cash stuffing for beginners](/cash-envelope-method/) explains the envelope
+method that makes an overspend impossible instead of just visible.

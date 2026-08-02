@@ -186,3 +186,7 @@ income — see [10 realistic side hustles you can start this week](/side-hustles
 Once you can finally see your spending, groceries are usually the fastest line to
 cut: here are [13 ways to cut your grocery bill](/cut-your-grocery-bill/) without
 coupons or meal plans.
+
+And if seeing the spending still isn't enough to stop it, the low-tech answer
+beats any app: [cash stuffing for beginners](/cash-envelope-method/) covers the
+envelope method and the amounts to put in each one.

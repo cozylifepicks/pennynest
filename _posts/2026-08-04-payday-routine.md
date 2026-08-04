@@ -70,8 +70,8 @@ does this in one screen and turns payday into filling in known amounts.
 ## 5. Give the leftover a name
 
 The money that remains after bills and savings is your actual spending money,
-and it behaves completely differently once it has a name. "£640 for the month"
-is abstract. "£160 a week for food, fuel and fun" is a number you can check
+and it behaves completely differently once it has a name. "$640 for the month"
+is abstract. "$160 a week for food, gas and fun" is a number you can check
 against on a Tuesday. Divide the leftover by the number of weeks until the next
 payday and treat that as the real limit.
 

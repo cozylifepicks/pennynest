@@ -190,3 +190,7 @@ that's an income problem rather than a budgeting one — see
 Not sure you need a paid tool at all? Our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
 covers what a free notebook gets you first.
+
+Envelopes work best when they're stuffed the moment the money arrives, which is
+step six of [the payday routine](/payday-routine/) — the wider routine the
+envelopes sit inside.

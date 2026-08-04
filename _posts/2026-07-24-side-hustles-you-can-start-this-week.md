@@ -120,3 +120,7 @@ disappearing before the end of the month, give it a job with
 [the cash envelope method](/cash-envelope-method/).
 
 {% include pick.html label="If You Only Try One" name="AI Side Hustle System" why="Most people stall at the deciding-what-to-do stage, not the doing. This hands you the plan on day one, so the only thing left is to follow it." link="https://www.betterdailyguide.site/ds24/the-ai-side-hustle#aff=tamirjr" cta="See how it works" %}
+
+Extra income only helps if it survives the first week, so pair this with
+[the payday routine](/payday-routine/) — it assigns the money a job the day it
+lands instead of letting it disappear.

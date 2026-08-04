@@ -133,3 +133,7 @@ If your spending leaks faster than you can save it, put a hard limit on the
 worst categories with [cash stuffing for beginners](/cash-envelope-method/).
 
 {% include pick.html label="Where to Start Tonight" name="Ultimate Dynamic Personal Budget (Google Sheets)" why="If you only do one thing after reading this, open the spreadsheet and type in last month's numbers — it takes an evening and shows you exactly where your first savings transfer can come from. Everything else on this list gets easier once you can see the money." link="https://www.digital-planning-studio.com/#aff=tamirjr" cta="See the spreadsheet" %}
+
+The single most reliable way to make that first transfer actually happen is to
+do it on payday before anything else — [the payday routine](/payday-routine/)
+walks through the order that works.

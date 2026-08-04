@@ -190,3 +190,7 @@ coupons or meal plans.
 And if seeing the spending still isn't enough to stop it, the low-tech answer
 beats any app: [cash stuffing for beginners](/cash-envelope-method/) covers the
 envelope method and the amounts to put in each one.
+
+And whichever tool you land on, it only earns its keep if you use it on the
+right day: [the payday routine](/payday-routine/) is where the numbers in a
+budget spreadsheet actually get spent or saved.

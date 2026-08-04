@@ -155,3 +155,7 @@ The single easiest line to shrink first is groceries:
 And if the budget keeps working on paper but not in real life, make the limit
 physical — [cash stuffing for beginners](/cash-envelope-method/) walks through
 the envelope method in twelve steps.
+
+And if the budget survives on paper but the money is gone three days after
+payday, the problem is the day itself — [the payday routine](/payday-routine/)
+is the twelve-step version of getting that right.

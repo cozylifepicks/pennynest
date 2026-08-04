@@ -180,3 +180,7 @@ before you spend anything — a free notebook gets most people surprisingly far.
 If the grocery limit is the one you keep blowing through, take it out in cash:
 [cash stuffing for beginners](/cash-envelope-method/) explains the envelope
 method that makes an overspend impossible instead of just visible.
+
+If the grocery money is gone long before the next payday, the timing is worth
+fixing too — [the payday routine](/payday-routine/) covers how to ring-fence it
+on day one.

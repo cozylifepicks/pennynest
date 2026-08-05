@@ -16,7 +16,7 @@ layout: default
 
   <p class="pin-save">
     <a class="btn btn-pin" rel="noopener" target="_blank"
-       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | uri_escape }}&media={{ page.image | absolute_url | uri_escape }}&description={{ page.title | uri_escape }}">
+       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | uri_escape }}&media={{ page.image | absolute_url | uri_escape }}&description={{ page.description | default: page.title | uri_escape }}">
       Save this to Pinterest
     </a>
     <span class="pin-save-hint">Keep these tips for later.</span>

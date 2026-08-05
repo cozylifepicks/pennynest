@@ -4,6 +4,7 @@ title: "Is a Budget Spreadsheet Worth It? An Honest Look Before You Buy"
 description: "Spreadsheet, app, or notebook? An honest look at what a dynamic Google Sheets budget planner actually does, who it suits, and when it is a waste of money."
 image: /images/spreadsheet-hero.jpg
 category: Budgeting
+guide: true
 ---
 
 *This post contains affiliate links. If you buy through them we may earn a small

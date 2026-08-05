@@ -10,6 +10,26 @@ layout: default
   </div>
 </section>
 
+{% assign guides = site.posts | where: "guide", true %}
+{% if guides.size > 0 %}
+<section class="wrap section" id="guides">
+  <h2 class="section-title">Reviews &amp; buyer's guides</h2>
+  <div class="post-grid">
+    {% for post in guides %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async">{% endif %}
+      <div class="post-card-body">
+        {% if post.category %}<p class="kicker">{{ post.category }}</p>{% endif %}
+        <h3>{{ post.title }}</h3>
+        <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
 <section class="wrap section" id="latest">
   <h2 class="section-title">Latest articles</h2>
   <div class="post-grid">

@@ -458,3 +458,10 @@ a { color: var(--terra-dark); }
   white-space: nowrap;
 }
 .prose tbody tr:hover { background: #fbf7f1; }
+
+/* Save-to-Pinterest button (added 2026-08-05) — gives readers a way to SAVE,
+   which is the quality signal Pinterest ranks on. */
+.pin-save { margin: 30px 0 4px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.btn-pin { background: #e60023; }
+.btn-pin:hover { background: #c8001e; }
+.pin-save-hint { font-size: 0.9rem; opacity: 0.7; }

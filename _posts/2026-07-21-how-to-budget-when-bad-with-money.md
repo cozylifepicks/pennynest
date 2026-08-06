@@ -3,6 +3,7 @@ layout: post
 title: "How to Budget When You're Bad With Money: 15 Steps That Actually Stick"
 description: "Think you're 'bad with money'? You're not — you just need a system. 15 dead-simple budgeting steps that stick, even if every budget you've tried has failed."
 image: /images/budget-hero.jpg
+pin_image: /images/budget-pin-2.jpg
 category: Budgeting
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "13 Ways to Cut Your Grocery Bill Without Coupons or Meal Plans"
 description: "Groceries are the easiest big bill to shrink. 13 realistic ways to cut your grocery bill by $100-$300 a month without coupons, apps, or eating worse."
 image: /images/grocery-hero.jpg
+pin_image: /images/grocery-pin-1.jpg
 category: Saving
 ---
 

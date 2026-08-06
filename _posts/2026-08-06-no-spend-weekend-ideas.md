@@ -3,6 +3,7 @@ layout: post
 title: "The No-Spend Weekend: 12 Ideas That Actually Feel Like a Weekend"
 description: "No spend weekend ideas that don't feel like punishment. 12 realistic ways to get through Saturday and Sunday without spending, and what to do about the leak that starts on Friday night."
 image: /images/no-spend-weekend-hero.jpg
+pin_image: /images/no-spend-weekend-pin-1.jpg
 category: Saving
 ---
 

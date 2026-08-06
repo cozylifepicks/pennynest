@@ -3,6 +3,7 @@ layout: post
 title: "Cash Stuffing for Beginners: 12 Envelope Method Steps That Actually Stick"
 description: "The cash envelope method works because you can see the money leaving. 12 beginner steps to set up cash stuffing this week — and the mistakes that make people quit."
 image: /images/cash-envelope-hero.jpg
+pin_image: /images/cash-stuffing-pin-1.jpg
 category: Budgeting
 ---
 

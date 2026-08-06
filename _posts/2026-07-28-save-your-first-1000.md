@@ -3,6 +3,7 @@ layout: post
 title: "12 Ways to Save Your First $1,000 Without Feeling Broke"
 description: "Saving your first $1,000 is the hardest — and the one that changes everything. 12 realistic ways to get there without giving up your whole life."
 image: /images/saving-hero.jpg
+pin_image: /images/saving-1000-pin-2.jpg
 category: Saving
 ---
 

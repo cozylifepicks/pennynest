@@ -3,6 +3,7 @@ layout: post
 title: "The Payday Routine: 12 Steps That Stop Money Vanishing in Three Days"
 description: "Payday feels great for about 72 hours, then the money is gone. A simple payday routine — 12 steps done the day your paycheck lands — that makes it last all month."
 image: /images/payday-hero.jpg
+pin_image: /images/paycheck-day-pin-1.jpg
 category: Budgeting
 ---
 

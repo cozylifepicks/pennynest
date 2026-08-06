@@ -124,3 +124,7 @@ disappearing before the end of the month, give it a job with
 Extra income only helps if it survives the first week, so pair this with
 [the payday routine](/payday-routine/) — it assigns the money a job the day it
 lands instead of letting it disappear.
+
+And if you'd rather keep more of what you already earn before adding hours,
+[the no-spend weekend](/no-spend-weekend-ideas/) frees up a similar amount for
+about ten minutes of planning.

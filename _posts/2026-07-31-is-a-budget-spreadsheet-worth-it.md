@@ -195,3 +195,8 @@ envelope method and the amounts to put in each one.
 And whichever tool you land on, it only earns its keep if you use it on the
 right day: [the payday routine](/payday-routine/) is where the numbers in a
 budget spreadsheet actually get spent or saved.
+
+And if you want to know what your weekends genuinely cost before deciding on
+any tool, run [a no-spend weekend](/no-spend-weekend-ideas/) first — the gap
+between a normal weekend and a free one is usually the most persuasive number
+in the whole budget.

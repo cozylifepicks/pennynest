@@ -159,3 +159,7 @@ the envelope method in twelve steps.
 And if the budget survives on paper but the money is gone three days after
 payday, the problem is the day itself — [the payday routine](/payday-routine/)
 is the twelve-step version of getting that right.
+
+And if the budget holds all week and then falls apart every Saturday, that's
+a weekend problem, not a budgeting one — [the no-spend weekend](/no-spend-weekend-ideas/)
+has twelve ideas for getting through one without it feeling like punishment.

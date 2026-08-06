@@ -137,3 +137,7 @@ worst categories with [cash stuffing for beginners](/cash-envelope-method/).
 The single most reliable way to make that first transfer actually happen is to
 do it on payday before anything else — [the payday routine](/payday-routine/)
 walks through the order that works.
+
+One of the easiest places to find that money without changing anything else is
+the weekend — [12 no-spend weekend ideas](/no-spend-weekend-ideas/) is worth
+about $60 to $150 a go for most households.

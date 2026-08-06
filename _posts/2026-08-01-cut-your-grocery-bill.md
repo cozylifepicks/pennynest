@@ -184,3 +184,7 @@ method that makes an overspend impossible instead of just visible.
 If the grocery money is gone long before the next payday, the timing is worth
 fixing too — [the payday routine](/payday-routine/) covers how to ring-fence it
 on day one.
+
+The weekend is where a good grocery week usually unravels into takeaways, so
+pair this with [12 no-spend weekend ideas](/no-spend-weekend-ideas/) — most of
+them are really just cooking what you already bought.

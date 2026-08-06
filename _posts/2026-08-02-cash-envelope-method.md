@@ -194,3 +194,7 @@ covers what a free notebook gets you first.
 Envelopes work best when they're stuffed the moment the money arrives, which is
 step six of [the payday routine](/payday-routine/) — the wider routine the
 envelopes sit inside.
+
+If one envelope always empties first, it's usually the weekend doing it —
+[12 no-spend weekend ideas](/no-spend-weekend-ideas/) covers how to get through
+Saturday and Sunday without opening it at all.

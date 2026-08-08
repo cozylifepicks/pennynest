@@ -142,3 +142,7 @@ walks through the order that works.
 One of the easiest places to find that money without changing anything else is
 the weekend — [12 no-spend weekend ideas](/no-spend-weekend-ideas/) is worth
 about $60 to $150 a go for most households.
+
+If cutting has run out of room and the next $1,000 has to come from earning, our
+[honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+covers who a paid content plan actually suits — and who should skip it.

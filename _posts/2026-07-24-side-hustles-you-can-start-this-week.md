@@ -129,3 +129,8 @@ lands instead of letting it disappear.
 And if you'd rather keep more of what you already earn before adding hours,
 [the no-spend weekend](/no-spend-weekend-ideas/) frees up a similar amount for
 about ten minutes of planning.
+
+And if the one that appeals is content — a blog, a channel, a newsletter — read
+our [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+before you buy anything, because a free evening with ChatGPT gets a beginner
+further than most people expect.

@@ -189,3 +189,7 @@ on day one.
 The weekend is where a good grocery week usually unravels into takeaways, so
 pair this with [12 no-spend weekend ideas](/no-spend-weekend-ideas/) — most of
 them are really just cooking what you already bought.
+
+And when the grocery line is as thin as it will go, the only lever left is
+income: our [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+looks at whether a one-time content plan is worth $27 or whether to start free.

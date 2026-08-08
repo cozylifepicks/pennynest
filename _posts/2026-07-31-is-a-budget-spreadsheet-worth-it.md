@@ -201,3 +201,7 @@ And if you want to know what your weekends genuinely cost before deciding on
 any tool, run [a no-spend weekend](/no-spend-weekend-ideas/) first — the gap
 between a normal weekend and a free one is usually the most persuasive number
 in the whole budget.
+
+And if the budget balances but is simply too small, we applied the same buy-or-skip
+test to the other side of the equation: our
+[honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/).

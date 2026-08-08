@@ -177,3 +177,8 @@ is the better place to start.
 Wondering whether a paid tool earns its keep before you buy one? Our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
 covers what a free notebook gets you first.
+
+And if payday keeps arriving too small rather than too disorganised, the fix is
+upstream: our [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+weighs up whether a paid content plan is worth it, or whether you should start
+free this week.

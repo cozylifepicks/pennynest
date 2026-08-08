@@ -184,3 +184,7 @@ with [12 ways to save your first $1,000](/save-your-first-1000/).
 Not sure whether a paid budgeting tool is worth it before you buy one? Our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
 covers what a free notebook gets you first.
+
+And if no-spend weekends are saving real money but the total still isn't moving
+fast enough, the gap is income, not spending — we put the
+[AI Side Hustle System under the same honest review](/is-the-ai-side-hustle-system-worth-it/).

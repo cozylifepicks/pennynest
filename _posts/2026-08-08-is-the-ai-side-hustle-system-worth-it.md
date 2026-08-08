@@ -203,4 +203,11 @@ cheaper digital tool first, our
 [honest look at whether a budget spreadsheet is worth it](/is-a-budget-spreadsheet-worth-it/)
 applies the same buy-or-skip test to a $27 planner. And if the fastest win is
 still on the spending side, [13 ways to cut your grocery bill](/cut-your-grocery-bill/)
-usually beats a side hustle for pure hourly rate.
+usually beats a side hustle for pure hourly rate — as does keeping the leaky
+categories in cash with [the cash envelope method](/cash-envelope-method/), or
+protecting the two days that undo most months with
+[12 no-spend weekend ideas](/no-spend-weekend-ideas/).
+
+None of that works without a budget underneath it, though. If that part is still
+shaky, start with [how to budget when you're bad with money](/how-to-budget-when-bad-with-money/)
+and add the income on top.

@@ -164,3 +164,8 @@ is the twelve-step version of getting that right.
 And if the budget holds all week and then falls apart every Saturday, that's
 a weekend problem, not a budgeting one — [the no-spend weekend](/no-spend-weekend-ideas/)
 has twelve ideas for getting through one without it feeling like punishment.
+
+And if the honest answer is that there simply isn't enough coming in to budget,
+a side income is the only lever left — our
+[review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+looks at whether that particular shortcut is worth paying for.

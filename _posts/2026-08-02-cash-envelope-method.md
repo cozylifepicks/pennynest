@@ -199,3 +199,8 @@ envelopes sit inside.
 If one envelope always empties first, it's usually the weekend doing it —
 [12 no-spend weekend ideas](/no-spend-weekend-ideas/) covers how to get through
 Saturday and Sunday without opening it at all.
+
+And when every envelope is already as thin as it goes, the problem isn't the
+system any more — it's the income. Our
+[review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
+is an honest look at whether that route is worth the money.

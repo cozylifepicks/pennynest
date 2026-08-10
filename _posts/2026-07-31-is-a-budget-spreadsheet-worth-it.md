@@ -205,3 +205,7 @@ in the whole budget.
 And if the budget balances but is simply too small, we applied the same buy-or-skip
 test to the other side of the equation: our
 [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/).
+
+And if the honest answer is that the budget is fine but the income isn't, the
+first step is smaller than it looks:
+[11 ways to get your first paying client](/first-paying-client/).

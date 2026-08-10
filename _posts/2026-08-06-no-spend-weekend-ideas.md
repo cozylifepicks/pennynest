@@ -188,3 +188,7 @@ covers what a free notebook gets you first.
 And if no-spend weekends are saving real money but the total still isn't moving
 fast enough, the gap is income, not spending — we put the
 [AI Side Hustle System under the same honest review](/is-the-ai-side-hustle-system-worth-it/).
+
+The first client is the hurdle there, not the idea:
+[11 ways to get your first paying client](/first-paying-client/) covers landing
+one with no website and no portfolio.

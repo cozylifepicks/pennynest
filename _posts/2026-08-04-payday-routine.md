@@ -182,3 +182,6 @@ And if payday keeps arriving too small rather than too disorganised, the fix is
 upstream: our [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
 weighs up whether a paid content plan is worth it, or whether you should start
 free this week.
+
+And if that extra income is going to be a side hustle, start where it actually
+stalls — [11 ways to get your first paying client](/first-paying-client/).

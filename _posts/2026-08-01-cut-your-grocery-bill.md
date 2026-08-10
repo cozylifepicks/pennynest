@@ -193,3 +193,7 @@ them are really just cooking what you already bought.
 And when the grocery line is as thin as it will go, the only lever left is
 income: our [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
 looks at whether a one-time content plan is worth $27 or whether to start free.
+
+If you'd rather add income than keep shaving the shopping list, the first sale
+is the whole hurdle — [11 ways to get your first paying client](/first-paying-client/)
+is what to do about it this week.

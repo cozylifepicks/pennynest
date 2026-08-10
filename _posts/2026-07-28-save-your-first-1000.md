@@ -146,3 +146,7 @@ about $60 to $150 a go for most households.
 If cutting has run out of room and the next $1,000 has to come from earning, our
 [honest review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
 covers who a paid content plan actually suits — and who should skip it.
+
+If earning is the route you take, the first payment is the only genuinely hard
+one — [11 ways to get your first paying client](/first-paying-client/) covers
+landing it without a website or a portfolio.

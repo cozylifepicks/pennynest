@@ -169,3 +169,7 @@ And if the honest answer is that there simply isn't enough coming in to budget,
 a side income is the only lever left — our
 [review of the AI Side Hustle System](/is-the-ai-side-hustle-system-worth-it/)
 looks at whether that particular shortcut is worth paying for.
+
+And if a side income is the plan, the hardest part is the very first sale —
+[11 ways to get your first paying client](/first-paying-client/) covers how
+people actually land it, usually without a website.

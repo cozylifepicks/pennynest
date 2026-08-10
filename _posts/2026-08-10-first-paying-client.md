@@ -3,7 +3,7 @@ layout: post
 title: "Your First Paying Client: 11 Ways to Get One Without a Website"
 description: "How to get your first paying client with no website, no portfolio and no audience. 11 realistic ways to land the first one, plus what to charge and where people actually look."
 image: /images/first-client-hero.jpg
-pin_image: /images/skill-income-pin-1.jpg
+pin_image: /images/first-client-pin-2.jpg
 category: Side Hustles
 ---
 

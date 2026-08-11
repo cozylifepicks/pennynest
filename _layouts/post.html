@@ -13,7 +13,7 @@ layout: default
   {% if page.image %}
   <p class="pin-save-top">
     <a rel="noopener" target="_blank"
-       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | append: '?utm_source=pinterest&utm_medium=social&utm_campaign=pennynest&utm_content=reader_save_top' | url_encode }}&media={{ page.pin_image | default: page.image | absolute_url | uri_escape }}&description={{ page.description | default: page.title | uri_escape }}">
+       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | append: '?utm_source=pinterest&utm_medium=social&utm_campaign=pennynest&utm_content=reader_save_top' | url_encode }}&media={{ page.pin_image | default: page.image | absolute_url | uri_escape }}&description={{ page.description | default: page.title | append: ' Tap to read the full guide on the blog. #budgeting #moneytips #sidehustle' | uri_escape }}">
       📌 Save this to Pinterest
     </a>
   </p>
@@ -24,7 +24,7 @@ layout: default
 
   <p class="pin-save">
     <a class="btn btn-pin" rel="noopener" target="_blank"
-       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | append: '?utm_source=pinterest&utm_medium=social&utm_campaign=pennynest&utm_content=reader_save' | url_encode }}&media={{ page.pin_image | default: page.image | absolute_url | uri_escape }}&description={{ page.description | default: page.title | uri_escape }}">
+       href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | append: '?utm_source=pinterest&utm_medium=social&utm_campaign=pennynest&utm_content=reader_save' | url_encode }}&media={{ page.pin_image | default: page.image | absolute_url | uri_escape }}&description={{ page.description | default: page.title | append: ' Tap to read the full guide on the blog. #budgeting #moneytips #sidehustle' | uri_escape }}">
       Save this to Pinterest
     </a>
     <span class="pin-save-hint">Keep these tips for later.</span>

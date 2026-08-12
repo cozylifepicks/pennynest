@@ -208,3 +208,7 @@ is an honest look at whether that route is worth the money.
 That first bit of extra income is more reachable than it sounds:
 [11 ways to get your first paying client](/first-paying-client/) covers how
 people land the first one, without a website or an audience.
+
+Envelopes handle the spending you choose; the payments that leave on their own
+need a different pass —
+[12 ways to cut your monthly bills](/cut-your-monthly-bills/) covers those.

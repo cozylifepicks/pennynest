@@ -150,3 +150,7 @@ covers who a paid content plan actually suits — and who should skip it.
 If earning is the route you take, the first payment is the only genuinely hard
 one — [11 ways to get your first paying client](/first-paying-client/) covers
 landing it without a website or a portfolio.
+
+Before you cut anything you enjoy, cut the bills you never re-check —
+[12 ways to cut your monthly bills](/cut-your-monthly-bills/) frees up money
+every single month without changing how you live.

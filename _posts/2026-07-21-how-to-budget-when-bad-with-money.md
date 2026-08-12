@@ -173,3 +173,8 @@ looks at whether that particular shortcut is worth paying for.
 And if a side income is the plan, the hardest part is the very first sale —
 [11 ways to get your first paying client](/first-paying-client/) covers how
 people actually land it, usually without a website.
+
+If budgeting feels impossible because the fixed costs eat everything before you
+start, lower them first —
+[12 ways to cut your monthly bills](/cut-your-monthly-bills/) is the easiest
+money on this whole site to find.

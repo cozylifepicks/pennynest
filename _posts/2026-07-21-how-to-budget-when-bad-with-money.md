@@ -178,3 +178,7 @@ If budgeting feels impossible because the fixed costs eat everything before you
 start, lower them first —
 [12 ways to cut your monthly bills](/cut-your-monthly-bills/) is the easiest
 money on this whole site to find.
+
+If your budget works most months and then collapses whenever a big annual bill
+lands, that is not a budgeting problem — see
+[sinking funds](/sinking-funds/) for the fix.

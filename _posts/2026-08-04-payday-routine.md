@@ -189,3 +189,7 @@ stalls — [11 ways to get your first paying client](/first-paying-client/).
 And if the fixed-costs total you move on payday keeps climbing, attack the
 number itself: [12 ways to cut your monthly bills](/cut-your-monthly-bills/)
 works through the subscriptions, insurance and phone charges that quietly grow.
+
+The transfer that does the most work over a year is the one into your
+[sinking funds](/sinking-funds/) — the pots that cover Christmas, the car and
+the renewals before they land.

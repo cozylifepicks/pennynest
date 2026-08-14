@@ -209,3 +209,7 @@ test to the other side of the equation: our
 And if the honest answer is that the budget is fine but the income isn't, the
 first step is smaller than it looks:
 [11 ways to get your first paying client](/first-paying-client/).
+
+The job a spreadsheet does best is the divide-by-twelve arithmetic behind
+[sinking funds](/sinking-funds/) — every known annual cost turned into one
+monthly number.

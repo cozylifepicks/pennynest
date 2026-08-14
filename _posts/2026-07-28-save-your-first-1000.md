@@ -154,3 +154,7 @@ landing it without a website or a portfolio.
 Before you cut anything you enjoy, cut the bills you never re-check —
 [12 ways to cut your monthly bills](/cut-your-monthly-bills/) frees up money
 every single month without changing how you live.
+
+Once the first $1,000 is there, the next job is stopping the big annual costs
+from eating it — [sinking funds](/sinking-funds/) are how you spread Christmas,
+the car and the insurance renewal over the whole year instead of one brutal month.

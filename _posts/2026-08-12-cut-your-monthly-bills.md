@@ -217,3 +217,7 @@ much going out, that's an income question —
 and [11 ways to get your first paying client](/first-paying-client/) are the
 places to start. For a weekend that costs nothing while you work through this
 list, try a [no-spend weekend](/no-spend-weekend-ideas/).
+
+And for the big costs that arrive once a year rather than every month,
+[sinking funds](/sinking-funds/) are the method that stops them wrecking a
+month at a time.

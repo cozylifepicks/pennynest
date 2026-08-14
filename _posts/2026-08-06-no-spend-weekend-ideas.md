@@ -192,3 +192,7 @@ fast enough, the gap is income, not spending — we put the
 The first client is the hurdle there, not the idea:
 [11 ways to get your first paying client](/first-paying-client/) covers landing
 one with no website and no portfolio.
+
+A good place to send what a no-spend weekend saves is a
+[sinking fund](/sinking-funds/), so the next big annual bill is already paid
+for when it lands.

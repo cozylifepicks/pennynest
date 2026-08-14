@@ -201,3 +201,7 @@ is what to do about it this week.
 Groceries are the loudest bill, not the biggest. Once this one is tight, work
 through [12 ways to cut your monthly bills](/cut-your-monthly-bills/) — the
 quiet ones you never look at usually give back more.
+
+What the grocery line frees up has to go somewhere deliberate.
+[Sinking funds](/sinking-funds/) are the pots that stop the next big annual
+bill undoing a month of careful shopping.

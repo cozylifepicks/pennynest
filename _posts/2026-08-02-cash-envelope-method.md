@@ -212,3 +212,7 @@ people land the first one, without a website or an audience.
 Envelopes handle the spending you choose; the payments that leave on their own
 need a different pass —
 [12 ways to cut your monthly bills](/cut-your-monthly-bills/) covers those.
+
+Envelopes handle the categories that overrun every week. For the costs that
+arrive once a year — Christmas, the car service, the renewal —
+[sinking funds](/sinking-funds/) are the same idea stretched over months.

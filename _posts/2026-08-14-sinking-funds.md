@@ -2,7 +2,7 @@
 layout: post
 title: "Sinking Funds: 12 Steps That Stop Big Bills Wrecking Your Month"
 description: "Christmas, the car, the vet, the insurance renewal — the bills that break a budget are the ones you knew about. 12 sinking fund steps that spread them over the year."
-image: /images/saving-hero.jpg
+image: /images/sinking-funds-hero.jpg
 pin_image: /images/fund-breaks-pin-1.jpg
 category: Saving
 ---

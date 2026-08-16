@@ -137,4 +137,6 @@ further than most people expect.
 
 Whichever idea you pick, the wall is the same one: getting somebody to pay you
 the first time. [11 ways to get your first paying client](/first-paying-client/)
-is the step that turns a chosen idea into actual income.
+is the step that turns a chosen idea into actual income — and
+[what to charge](/what-to-charge-side-hustle/) is how you make sure that income
+is worth the hours you gave up for it.

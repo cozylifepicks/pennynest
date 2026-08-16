@@ -177,3 +177,8 @@ And while the hustle is finding its feet, the fastest wins are still on the
 spending side — [13 ways to cut your grocery bill](/cut-your-grocery-bill/) and
 [12 no-spend weekend ideas](/no-spend-weekend-ideas/) both bank money this month
 without needing a single client.
+
+One warning for the moment the first yes arrives: the number you say out loud is
+the one you'll be living with for months.
+[What to charge: 12 rules that stop you undercharging](/what-to-charge-side-hustle/)
+is worth reading before that conversation, not after it.

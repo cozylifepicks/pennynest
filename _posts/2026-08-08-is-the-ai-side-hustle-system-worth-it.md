@@ -214,4 +214,6 @@ and add the income on top.
 
 Whether you buy it or start free, the same first hurdle is waiting.
 [11 ways to get your first paying client](/first-paying-client/) is what to do
-the evening after you've picked an idea.
+the evening after you've picked an idea, and
+[what to charge](/what-to-charge-side-hustle/) covers the part that decides
+whether any of it was worth doing.
